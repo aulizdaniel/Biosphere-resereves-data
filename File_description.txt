@@ -1,0 +1,38 @@
+Forest spatial changes
+
+Author: Daniel M. Auliz Ortiz
+contact: dauliz@cieco.unam.mx, auliz.d@gmail.com
+
+This doscument shows the key of the name of the variables of the forest satial changes document.
+
+no: The id number of the reserves
+
+Reserves: The name of the different biosphere reserves
+
+np_2000_in: Number of forest patches within the studied reserves for the year 2000
+
+np_2020_in: Number of forest patches within the studied reserves for the year 2020
+
+pland_2000_in: Forest cover (%) within the studied reserves for the year 2000
+
+pland_2020_in: Forest cover (%) within the studied reserves for the year 2020
+
+pland_2000_out: Forest cover (%) in the surrounding area of the studied reserves for the year 2000
+
+pland_2020_out: Forest cover (%) in the surrounding area of the studied reserves for the year 2020
+
+np_change_in: Absolute change in the number of forest patches within the studied reserves for the period 2000 - 2020
+
+np_change_out: Absolute change in the number of forest patches in the surrounding area of the studied reserves for the period 2000 - 2020
+
+r_np_in: Relative change in the number of forest patches within the studied reserves for the period 2000 - 2020. This variable is refered in the mein text as fragmentation rate
+
+r_np_out: Relative change in the number of forest patches in the surrounding area of the studied reserves for the period 2000 - 2020. This variable is refered in the mein text as fragmentation rate
+
+loss_in: Forest loss rate within the studied reserves for the period 2000 - 2020
+
+loss_out: Forest loss rate in the surrounding area of the studied reserves for the period 2000 - 2020
+
+regrowth_in: Forest regrowth rate within the studied reserves for the period 2000 - 2020
+
+regrowth_out: Forest regrowth rate in the surrounding area ofthe studied reserves for the period 2000 - 2020
