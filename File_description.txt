@@ -17,6 +17,8 @@ pland_2000_in: Forest cover (%) within the studied reserves for the year 2000
 
 pland_2020_in: Forest cover (%) within the studied reserves for the year 2020
 
+forest_2000: forest area (ha) in the year 2000
+
 loss_in: Forest loss rate within the studied reserves for the period 2000 - 2020
 
 regrowth_in: Forest regrowth rate within the studied reserves for the period 2000 - 2020
