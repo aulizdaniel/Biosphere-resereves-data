@@ -3,4 +3,4 @@ This repository provides acces to data of forest spatial changes of 14 Mesoameri
 
 The data is part of a submited paper (not yet published):
 
-Auliz-Ortiz DM, Arroyo-Rodríguez V, Mendoza E and Martínez-Ramos M. 2020. Local diversity of economic activities could reduce deforestation pressures on biosphere reserves. In press (Conservation Biology). 
+Auliz-Ortiz DM, Arroyo-Rodríguez V, Mendoza E and Martínez-Ramos M. 2021. Increasing diversity of non-farm labor could reduce deforestation pressures on biosphere reserves. In press. 
