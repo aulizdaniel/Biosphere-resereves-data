@@ -1,5 +1,5 @@
 # Biosphere-resereves-data
-This repository provides access to data of forest spatial changes of 19 Mesoamerican biosphere reserves, the code to calculate diversity of non-farm- labor, and a diagram of the workflow of the data processing and data analysis to accomplish our study.
+This repository provides access to data of forest spatial changes of 19 Mesoamerican biosphere reserves, a diagram of the workflow of the data processing and data analysis to accomplish our study.
 
 The data is part of a submited paper (not yet published):
 
