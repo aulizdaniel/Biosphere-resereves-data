@@ -14,7 +14,8 @@ library(cobalt)
 
 
 ##load fragmentation database
-df_frag<- read.csv("C:/Users/ZBokk/OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO/Documents/Trabajo de ivestigación VIII/tables_8csv/match_loss_regrowth_frag/repository/df_frag_land.csv")
+#df_frag<- read.csv("C:/Users/ZBokk/OneDrive - UNIVERSIDAD NACIONAL AUT?NOMA DE M?XICO/Documents/Trabajo de ivestigaci?n VIII/tables_8csv/match_loss_regrowth_frag/repository/df_frag_land.csv")
+df_frag<- read.csv("df_frag_land.csv")
 
 
 #define a categorical variable for treatment (prot=1) and control (prot=0) groups
